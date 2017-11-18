@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.818,=C:\Program Files\Embarcadero\RAD Studio\9.0\bin\Projects\Unit1.pas</Transaction>
+    <Transaction>2017.11.18 15:58:08.727,=C:\Program Files\Embarcadero\RAD Studio\9.0\bin\Projects\Unit1.pas</Transaction>
+    <Transaction>2017.11.18 15:58:40.050,D:\_GIT\MVC\View.dfm=C:\Program Files\Embarcadero\RAD Studio\9.0\bin\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017.11.18 15:58:40.050,D:\_GIT\MVC\View.pas=C:\Program Files\Embarcadero\RAD Studio\9.0\bin\Projects\Unit1.pas</Transaction>
+    <Transaction>2017.11.18 15:58:42.760,D:\_GIT\MVC\Project1.dproj=C:\Program Files\Embarcadero\RAD Studio\9.0\bin\Projects\Project1.dproj</Transaction>
+    <Transaction>2017.11.18 15:58:53.061,=D:\_GIT\MVC\Unit1.pas</Transaction>
+    <Transaction>2017.11.18 15:59:33.119,D:\_GIT\MVC\ViewModel.pas=D:\_GIT\MVC\Unit1.pas</Transaction>
+    <Transaction>2017.11.18 15:59:55.777,=D:\_GIT\MVC\Unit1.pas</Transaction>
+    <Transaction>2017.11.18 16:00:01.006,D:\_GIT\MVC\Model.pas=D:\_GIT\MVC\Unit1.pas</Transaction>
+    <Transaction>2017.11.18 16:11:57.596,=D:\_GIT\MVC\ModelSupport_Project1\default.txaPackage</Transaction>
+    <Transaction>2017.11.18 16:11:58.822,=D:\_GIT\MVC\ModelSupport_Project1\default.txvpck</Transaction>
+    <Transaction>2017.11.18 16:12:04.643,=D:\_GIT\MVC\ModelSupport_Project1\ViewModel\default.txvpck</Transaction>
+    <Transaction>2017.11.18 16:12:04.695,=D:\_GIT\MVC\ModelSupport_Project1\Project1\default.txvpck</Transaction>
+    <Transaction>2017.11.18 16:12:04.828,=D:\_GIT\MVC\ModelSupport_Project1\ViewModel\default.txaPackage</Transaction>
+    <Transaction>2017.11.18 16:12:09.434,=D:\_GIT\MVC\ModelSupport_Project1\View\default.txvpck</Transaction>
+    <Transaction>2017.11.18 16:12:18.834,=D:\_GIT\MVC\ModelSupport_Project1\Model\default.txvpck</Transaction>
+  </Transactions>
+</BorlandProject>

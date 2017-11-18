@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet version="1.0">
+  <view uin="n1bhmata6r6ss2mjs_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:Project1:ViewModel.@unitclass">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:Project1:ViewModel.TFormPage">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="380,320,177,131" />
+      <property name="location_set_by_user" value="True" />
+      <reference referencedUin="delphi:e_field:src:Project1:ViewModel.TFormPage.PCaption" />
+      <reference referencedUin="delphi:e_field:src:Project1:ViewModel.TFormPage.LCaption" />
+      <reference referencedUin="delphi:e_field:src:Project1:ViewModel.TFormPage.WebPage" />
+      <reference referencedUin="delphi:e_method:src:Project1:ViewModel.TFormPage.create(Vcl.Forms.TForm)" />
+      <reference referencedUin="delphi:l_gnt:src:Project1:ViewModel.TFormPage:ViewModel.TAbstractFormPage">
+        <property name="sourceAnchor" value="444,320" />
+        <property name="targetAnchor" value="444,187" />
+        <property name="bendpoints" value="" />
+      </reference>
+    </reference>
+    <reference referencedUin="delphi:e_class:src:Project1:ViewModel.TAbstractFormPage">
+      <property name="$shortcutReference" value="true" />
+      <property name="bounds" value="380,120,129,67" />
+      <property name="location_set_by_user" value="True" />
+    </reference>
+  </view>
+</nodeSet>
